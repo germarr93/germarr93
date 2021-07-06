@@ -26,22 +26,24 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 
 ###             **Front-End**: 
 + Html 5
-+ Css
++ Css 3
 + Boostrap 
++ JavaScript
++ 
  
  ###             **Back-End**:
 
 + Visual Studio C Sharp.
 + Java.
 + Microsoft SQL Managment Studio.
-+ My SQL.
++ MySQL.
 + Genexus 16.
 + Android Studio.
++ Git
 
 
 
 # Contact 
 
-Find my social media and resume on my website (www.linkedin.com/in/germanmarr
-). 
+Find my social media and resume on my website www.linkedin.com/in/germanmarr
 😄 See you :) 
