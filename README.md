@@ -29,7 +29,7 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 + Css 3
 + Boostrap 
 + JavaScript
-+ 
+
  
  ###             **Back-End**:
 
