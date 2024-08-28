@@ -28,11 +28,14 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 + Html 5
 + Css 3
 + Boostrap 
-+ JavaScript
++ JavaScrip
++ Python
+  
 
  
  ###             **Back-End**:
 
++ Azure Microsoft 
 + Visual Studio C Sharp.
 + Java.
 + Microsoft SQL Managment Studio.
