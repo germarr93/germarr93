@@ -19,6 +19,7 @@ My background started in full-stack development, which is why I tend to debug an
 - 🔐 Long-term direction: Cloud Security Engineering
 - 🌎 Fully remote-ready, comfortable in English-speaking teams
 
+- 🏆 Recognized with a Special Achievement Award, driven by direct client appreciation for incident resolution
 ---
 
 ## Tech Stack
@@ -44,6 +45,7 @@ My background started in full-stack development, which is why I tend to debug an
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Studio 3T](https://img.shields.io/badge/Studio_3T-3A9E48?style=flat&logo=mongodb&logoColor=white)
+
 **Development**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -51,6 +53,7 @@ My background started in full-stack development, which is why I tend to debug an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
@@ -60,7 +63,7 @@ I learn by building tools instead of consuming tutorials. Most of my side work i
 
 | Project | What it does |
 | --- | --- |
-| **Learning Platform** | React-based platform with structured courses on Linux, cybersecurity, cloud fundamentals and technical support |
+| **Learning Platform** | React-based platform with structured courses on Linux, cybersecurity, cloud fundamentals and technical support — lesson content generated through LLM API integration |
 | **Interactive Network Diagrams** | Step-by-step visualizations of how a packet travels from device → router → ISP → server |
 | **Career Bridge LATAM** | Resources helping Spanish-speaking IT professionals build cloud/security skills and workplace English |
 
