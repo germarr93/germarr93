@@ -1,52 +1,86 @@
+# Germán Marr
 
+**Cloud & Platform Support Engineer** · Uruguay
 
-<!--
-**germarr93/germarr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-germanmarr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanmarr)
+[![Location](https://img.shields.io/badge/Based_in-Uruguay-4C9A2A?style=flat)](#)
+[![Open to](https://img.shields.io/badge/Open_to-Remote_Roles-blue?style=flat)](#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello 👋
+## About
 
-My name is German, I'm from Uruguay and I'm a Full Stack Developer.
+I keep production platforms running. I work in a distributed enterprise environment across US, LATAM and India teams, handling incident response, root-cause analysis and platform troubleshooting for a high-traffic travel product — all day-to-day coordination in English.
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on  Github discussions... and creating useful content to be used by developers: libraries and articles.
+My background started in full-stack development, which is why I tend to debug an incident by reading the system, not just the ticket. Today I'm focused on **cloud and security**: understanding not only how infrastructure fails, but how it's attacked and defended.
 
-# Skills
+- 🔧 4+ years in technical support and platform operations
+- ☁️ Working toward **AZ-900 → Azure Security** certifications
+- 🔐 Long-term direction: Cloud Security Engineering
+- 🌎 Fully remote-ready, comfortable in English-speaking teams
 
+---
 
+## Tech Stack
 
-###             **Front-End**: 
-+ Html 5
-+ Css 3
-+ Boostrap 
-+ JavaScrip
-+ Python
-  
+**Cloud & Infrastructure**
 
- 
- ###             **Back-End**:
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-+ Azure Microsoft 
-+ Visual Studio C Sharp.
-+ Java.
-+ Microsoft SQL Managment Studio.
-+ MySQL.
-+ Genexus 16.
-+ Android Studio.
-+ Git
+**Support & Observability**
 
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
+![Postman](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Incident_Management-0052CC?style=flat&logo=jira&logoColor=white)
 
+**Data**
 
-# Contact 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-Find my social media and resume on my website www.linkedin.com/in/germanmarr
-😄 See you :) 
+**Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## What I'm Building
+
+I learn by building tools instead of consuming tutorials. Most of my side work is interactive, mobile-first web apps:
+
+| Project | What it does |
+| --- | --- |
+| **Learning Platform** | React-based platform with structured courses on Linux, cybersecurity, cloud fundamentals and technical support |
+| **Interactive Network Diagrams** | Step-by-step visualizations of how a packet travels from device → router → ISP → server |
+| **Career Bridge LATAM** | Resources helping Spanish-speaking IT professionals build cloud/security skills and workplace English |
+
+---
+
+## Currently
+
+```text
+Learning    →  Azure security services, hardening, identity
+Practicing  →  Cybersecurity labs (recon, defense, cryptography)
+Reading     →  Incident postmortems and cloud architecture write-ups
+Open to     →  Remote Cloud Support / Cloud Security roles
+```
+
+---
+
+## Get in Touch
+
+I'm always open to talking about cloud operations, incident response, or how to move from support into security.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanmarr)
+
+---
+
+<sub>Thanks for stopping by 👋</sub>
