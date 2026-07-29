@@ -29,11 +29,13 @@ My background started in full-stack development, which is why I tend to debug an
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Support & Observability**
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
 ![Postman](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat&logo=bruno&logoColor=black)
 ![Jira](https://img.shields.io/badge/Incident_Management-0052CC?style=flat&logo=jira&logoColor=white)
 
 **Data**
@@ -41,7 +43,7 @@ My background started in full-stack development, which is why I tend to debug an
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
+![Studio 3T](https://img.shields.io/badge/Studio_3T-3A9E48?style=flat&logo=mongodb&logoColor=white)
 **Development**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
