@@ -14,7 +14,7 @@ I keep production platforms running. I work in a distributed enterprise environm
 
 My background started in full-stack development, which is why I tend to debug an incident by reading the system, not just the ticket. Today I'm focused on **cloud and security**: understanding not only how infrastructure fails, but how it's attacked and defended.
 
-- 🔧 4+ years in technical support and platform operations
+- 🔧 5+ years in technical support and platform operations
 - ☁️ Working toward **AZ-900 → Azure Security** certifications
 - 🔐 Long-term direction: Cloud Security Engineering
 - 🌎 Fully remote-ready, comfortable in English-speaking teams
