@@ -12,10 +12,11 @@
 
 I keep production platforms running. I work in a distributed enterprise environment across US, LATAM and India teams, handling incident response, root-cause analysis and platform troubleshooting for a high-traffic travel product — all day-to-day coordination in English.
 
-My background started in full-stack development, which is why I tend to debug an incident by reading the system, not just the ticket. Today I'm focused on **cloud and security**: understanding not only how infrastructure fails, but how it's attacked and defended.
+My background started in full-stack development, which is why I debug an incident by reading the system, not just the ticket. I work across **cloud operations and cybersecurity**: running production support on Microsoft Azure day to day, and building full exploitation-to-remediation labs on the offensive security side.
 
-- 🔧 **5+ years** in technical support and platform operations
-- 🔐 Long-term direction: **Cloud Security Engineering**
+- 🔧 **5+ years** in Cloud & Platform Support — production incident response, RCA and platform ops on Azure
+- 🔐 Hands-on offensive security — CVE-based exploitation and remediation labs, documented end to end (see [Pentest Lab](https://github.com/germarr93/cybersecurity-pentest-lab))
+- 🎓 AZ-900 and Azure Security certifications in progress — the remaining formal step on skills already in practice
 - 🌎 Fully remote-ready, comfortable in English-speaking teams
 - 🏆 Special Achievement Award, driven by direct client appreciation for incident resolution
 
@@ -71,10 +72,10 @@ I learn by building tools instead of consuming tutorials. Most of my side work i
 ## Currently
 
 ```text
-Learning    →  Azure security services, hardening, identity
-Practicing  →  Cybersecurity labs (recon, defense, cryptography)
-Reading     →  Incident postmortems and cloud architecture write-ups
-Open to     →  Remote Cloud Support / Cloud Security roles
+Working      →  Azure production support — incident response, RCA, platform ops
+Documenting  →  Offensive security labs — CVE exploitation, post-exploitation, remediation
+Finishing    →  AZ-900 and Azure Security certifications
+Open to      →  Remote Cloud Support / Cloud Security roles
 ```
 
 ---
