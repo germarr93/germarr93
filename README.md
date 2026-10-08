@@ -26,8 +26,13 @@ My background started in full-stack development, which is why I tend to debug an
 
 **Security**
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-black?style=flat&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-D0021B?style=flat&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![GTFOBins](https://img.shields.io/badge/GTFOBins-4A4A4A?style=flat&logoColor=white)
 
 **Data**
 
