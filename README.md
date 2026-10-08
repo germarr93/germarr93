@@ -55,6 +55,11 @@ My background started in full-stack development, which is why I tend to debug an
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-D97757?style=flat&logo=anthropic&logoColor=white)
 
+**Security**
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
 ---
 
 ## What I'm Building
