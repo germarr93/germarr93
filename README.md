@@ -24,7 +24,7 @@ My background started in full-stack development, which is why I tend to debug an
 
 ## Tech Stack
 
-**Security**
+**Cyber Security**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
