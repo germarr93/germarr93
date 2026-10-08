@@ -2,9 +2,9 @@
 
 **Cloud & Platform Support Engineer** · Uruguay
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-germanmarr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanmarr)
-[![Location](https://img.shields.io/badge/Based_in-Uruguay-4C9A2A?style=flat)](#)
-[![Open to](https://img.shields.io/badge/Open_to-Remote_Roles-blue?style=flat)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-germanmarr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanmarr)
+[![Location](https://img.shields.io/badge/Based_in-Uruguay-4C9A2A?style=for-the-badge)](#)
+[![Open to](https://img.shields.io/badge/Open_to-Remote_Roles-blue?style=for-the-badge)](#)
 
 ---
 
@@ -14,10 +14,11 @@ I keep production platforms running. I work in a distributed enterprise environm
 
 My background started in full-stack development, which is why I tend to debug an incident by reading the system, not just the ticket. Today I'm focused on **cloud and security**: understanding not only how infrastructure fails, but how it's attacked and defended.
 
-- 🔧 5+ years in technical support and platform operations
-- 🔐 Long-term direction: Cloud Security Engineering
+- 🔧 **5+ years** in technical support and platform operations
+- 🔐 Long-term direction: **Cloud Security Engineering**
 - 🌎 Fully remote-ready, comfortable in English-speaking teams
-- 🏆 Recognized with a Special Achievement Award, driven by direct client appreciation for incident resolution
+- 🏆 Special Achievement Award, driven by direct client appreciation for incident resolution
+
 ---
 
 ## Tech Stack
