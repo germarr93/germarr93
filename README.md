@@ -29,31 +29,24 @@ My background started in full-stack development, which is why I tend to debug an
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-black?style=flat&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-D0021B?style=flat&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
-![GTFOBins](https://img.shields.io/badge/GTFOBins-4A4A4A?style=flat&logoColor=white)
 
 **Data**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Studio 3T](https://img.shields.io/badge/Studio_3T-3A9E48?style=flat&logo=mongodb&logoColor=white)
 
 **Cloud & Infrastructure**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Support & Observability**
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
 ![Postman](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat&logo=bruno&logoColor=black)
 ![Jira](https://img.shields.io/badge/Incident_Management-0052CC?style=flat&logo=jira&logoColor=white)
 
 **Development**
@@ -61,8 +54,6 @@ My background started in full-stack development, which is why I tend to debug an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
